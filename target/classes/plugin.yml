@@ -1,0 +1,12 @@
+name: CommunityAttack
+version: 1.0
+author: AFI
+api-version: 1.18
+main: net.afi.communityattack.CommunityAttack
+
+commands:
+  vote:
+  office:
+  admin:
+  statistics:
+    aliases: [stats]
